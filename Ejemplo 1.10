@@ -1,0 +1,17 @@
+Algoritmo sin_titulo
+	
+	Definir BAS Como real;
+	Definir ALTU Como real;
+	Definir SUP Como real;
+	Definir PER Como real;
+	
+	Leer BAS, ALTU;
+	
+	SUP<-BAS*ALTU;
+	PER<-2*(BAS+ALTU);
+	
+	Escribir SUP;
+	Escribir PER;
+	
+	
+FinAlgoritmo
